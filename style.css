@@ -12,7 +12,7 @@
 }
 
 body {
-  background-color: #7f8caa;
+  background-color: #757eae;
 }
 
 .history {
@@ -24,7 +24,7 @@ h1 {
   font-size: 2.25rem;
   font-weight: 200;
   letter-spacing: 0.5rem;
-  color: aliceblue;
+  color: #eaefef;
 }
 
 section {
@@ -37,4 +37,42 @@ section {
 
 p {
   margin-top: 1.5rem;
+}
+
+.ponto1,
+.ponto2,
+.ponto3 {
+  text-align: center;
+}
+
+.ponto1 h2,
+.ponto2 h2,
+.ponto3 h2 {
+  padding-bottom: 1.5rem;
+  font-weight: 500;
+}
+
+.ponto1 img,
+.parquecapivari,
+.ponto3 img {
+  border-radius: 3%;
+  height: 26rem;
+}
+
+.ponto1 p,
+.ponto2 p,
+.ponto3 p {
+  text-align: justify;
+}
+
+.parquecapivari {
+  border-radius: ;
+}
+
+footer {
+  text-align: center;
+  margin-bottom: 2rem;
+  font-weight: 500;
+  letter-spacing: 0.1rem;
+  color: #424242;
 }
